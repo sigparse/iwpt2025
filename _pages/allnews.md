@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "IWPT 2021"
+excerpt: "IWPT 2025"
 sitemap: false
 permalink: /allnews.html
 ---
