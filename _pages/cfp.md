@@ -13,7 +13,7 @@ SyntaxFest 2025, Ljubljana, August 26–29
 
 &nbsp;
 
-#### CALL FOR PAPERS
+### CALL FOR PAPERS
 
 The ACL Special Interest Group on Natural Language Parsing (SIGPARSE)
 invites paper submissions to its biennial conference on parsing
@@ -56,6 +56,8 @@ including but not limited to:
 + Integrating morphology via character-based models, subword
   embeddings, and beyond
 
+&nbsp;
+
 
 #### SCHEDULE
 
@@ -65,6 +67,8 @@ including but not limited to:
 + August 26-29, 2025: Conference (part of SyntaxFest)
 
 All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
+
+&nbsp;
 
 #### SUBMISSIONS
 
@@ -97,9 +101,10 @@ Papers accepted for presentation at the conference will be included in
 the IWPT 2025 proceedings, which will be published by the ACL and
 included in the ACL Anthology.
 
+&nbsp;
+
 #### IWPT Chairs
 
-+ Stephan Oepen
-+ Kenji Sagae
++ [Stephan Oepen](https://www.mn.uio.no/ifi/english/people/aca/oe/)
++ [Kenji Sagae](https://compling.ucdavis.edu/sagae)
 
-<organizers@sigparse.org>
