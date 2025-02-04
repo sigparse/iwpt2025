@@ -13,7 +13,7 @@ SyntaxFest 2025, Ljubljana, August 26–29
 
 &nbsp;
 
-## CALL FOR PAPERS
+#### CALL FOR PAPERS
 
 The ACL Special Interest Group on Natural Language Parsing (SIGPARSE)
 invites paper submissions to its biennial conference on parsing
@@ -25,7 +25,7 @@ The paper submission deadline for IWPT 2025 is April 15, 2025.
 
 &nbsp;
 
-## TOPICS
+#### TOPICS
 
 IWPT addresses all aspects of structural analysis of natural language,
 including but not limited to:
@@ -57,7 +57,7 @@ including but not limited to:
   embeddings, and beyond
 
 
-## SCHEDULE
+#### SCHEDULE
 
 + April 15, 2025: Paper submission deadline
 + June 2, 2025: Notification of acceptance
@@ -66,7 +66,7 @@ including but not limited to:
 
 All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 
-## SUBMISSIONS
+#### SUBMISSIONS
 
 Papers must be submitted digitally in PDF format via the online conference
 system:
@@ -97,7 +97,7 @@ Papers accepted for presentation at the conference will be included in
 the IWPT 2025 proceedings, which will be published by the ACL and
 included in the ACL Anthology.
 
-## IWPT Chairs
+#### IWPT Chairs
 
 + Stephan Oepen
 + Kenji Sagae
