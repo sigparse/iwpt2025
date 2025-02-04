@@ -71,7 +71,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 Papers must be submitted digitally in PDF format via the online conference
 system:
 
-https://openreview.net/group?id=SyntaxFest/2025.
+<https://openreview.net/group?id=SyntaxFest/2025>
 
 When submitting, authors will be asked to indicate which workshops they wish
 their paper to be considered for and to specify whether their submission
