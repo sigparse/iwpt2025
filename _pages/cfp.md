@@ -25,6 +25,10 @@ The paper submission deadline for IWPT 2025 is April 15, 2025.
 
 &nbsp;
 
+### INVITED TALK
+
++ Isabel Papadimitriou (Kempner Institute, Harvard)
+
 #### TOPICS
 
 IWPT addresses all aspects of structural analysis of natural language,
