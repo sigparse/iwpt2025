@@ -7,7 +7,8 @@ permalink: /cfp
 ---
 
 ### IWPT 2025: The 18th International Conference on Parsing Technologies
-**<span style="color:red">DEADLINE EXTENDED</span>** 
+**<span style="color:red">DEADLINE EXTENDED</span>**
+
 SyntaxFest 2025, Ljubljana, August 26–29
 
 <https://www.sigparse.org/iwpt2025>
