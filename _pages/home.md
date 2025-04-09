@@ -15,7 +15,7 @@ IWPT addresses all aspects of computational structural analysis of natural langu
 
 ### Important Dates
 
-| Submission deadline | April 15, 2025 | 
+| Submission deadline | ~~April 15, 2025~~ April 22, 2025 (extended) | 
 | Notification of acceptance: | June 2, 2025 |      
 | Camera-ready versions due: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | June 16, 2025 |
 | Conference: | August 26-29, 2025 |
