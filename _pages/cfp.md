@@ -7,6 +7,7 @@ permalink: /cfp
 ---
 
 ### IWPT 2025: The 18th International Conference on Parsing Technologies
+**<span style="color:red">DEADLINE EXTENDED</span>** 
 SyntaxFest 2025, Ljubljana, August 26–29
 
 <https://www.sigparse.org/iwpt2025>
@@ -21,7 +22,8 @@ technologies.  IWPT 2025 will be the 18th conference in a series that
 started in 1989.  The conference will be held as one of the events in
 SyntaxFest 2025 in Ljubljana, August 26–29.
 
-The paper submission deadline for IWPT 2025 is April 15, 2025.
+~~The paper submission deadline for IWPT 2025 is April 15, 2025.~~  
+**<span style="color:red">The paper submission deadline for IWPT 2025 has been extended to April 22, 2025 (anywhere on Earth).</span>**
 
 &nbsp;
 
@@ -67,7 +69,8 @@ including but not limited to:
 
 #### SCHEDULE
 
-+ April 15, 2025: Paper submission deadline
++ ~~April 15, 2025: Paper submission deadline~~  
++ **<span style="color:red">April 22, 2025: Paper submission deadline (extended)</span>**  
 + June 2, 2025: Notification of acceptance
 + June 16, 2025: Camera-Ready versions due
 + August 26-29, 2025: Conference (part of SyntaxFest)
